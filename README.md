@@ -3,8 +3,7 @@
 A lightweight Engine Control Unit (ECU) state machine simulator written in C.  
 Models the core control logic of a gasoline engine — from cold start to fault detection — using a deterministic finite state machine (FSM).
 
-> Built as a portfolio project to demonstrate embedded software skills relevant to automotive ECU development (Bosch PS division internship target).
-
+> Built as a portfolio project to demonstrate embedded software skills relevant to automotive ECU development
 ---
 
 ## State Machine Design
