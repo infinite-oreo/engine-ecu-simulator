@@ -147,5 +147,3 @@ The `main.c` simulation runs through 6 scripted phases:
 - [ ] Engine physical model (`engine_model.c`) — RPM dynamics, fuel injection logic
 
 ---
-
-*Developed as a self-study project targeting Bosch Powertrain Solutions (PS) embedded software internship.*
